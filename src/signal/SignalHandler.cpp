@@ -3,6 +3,8 @@
 //
 
 #include <cstring>
+#include <spdlog/spdlog.h>
+#include <sys/wait.h>
 #include "SignalHandler.h"
 namespace nsp_signal{
 
