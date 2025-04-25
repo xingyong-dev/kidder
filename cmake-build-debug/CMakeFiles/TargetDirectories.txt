@@ -1,3 +1,0 @@
-/home/sylar/workspace/kidder/cmake-build-debug/CMakeFiles/kidder.dir
-/home/sylar/workspace/kidder/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sylar/workspace/kidder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
